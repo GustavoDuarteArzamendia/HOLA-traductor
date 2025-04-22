@@ -1,0 +1,1 @@
+# Módulo futuro para historial
